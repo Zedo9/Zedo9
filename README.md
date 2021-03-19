@@ -1,7 +1,7 @@
 <img src="intro-gif/intro.gif" alt="Hi there, I'm Chedly Zouche">
 
 <p align=center>
-    <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=zedo9&countColor&countColor=%237B1E7A">
+    <img src="https://badges.pufler.dev/visits/zedo9/zedo9">
 </p>
 
 <a href="https://github.com/zedo9?tab=repositories">
