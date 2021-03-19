@@ -53,8 +53,8 @@ When I'm not studying or writing code, you can find me playing [Dota2 <img src="
 
 ## 📬 Get in Touch
 
-- GitHub: [Zedo9](github.com/zedo9)
-- LinkedIn: [Chedly Zouche](linkedin.com/in/chedlyzouche/)
+- GitHub: [Zedo9](https://github.com/zedo9)
+- LinkedIn: [Chedly Zouche](https://linkedin.com/in/chedlyzouche/)
 - E-mail: chedly.zouche@pm.me
 
 ## 🎧 Last played song
