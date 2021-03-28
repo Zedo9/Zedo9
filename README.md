@@ -13,9 +13,9 @@
 
 ## 🎓 Currently studying and learning about...
 
-- Design patterns and clean Architechture
 - System Administration
-- JEE Ecosystem
+- Java J2EE / Spring Framework
+- Design patterns and clean Architechture
 - Embedded systems - STM32 Microcontrollers
 - Networks
 - Data Analysis
@@ -49,6 +49,8 @@ When I'm not studying or writing code, you can find me playing [Dota2 <img src="
 <img src="https://img.shields.io/badge/postgresql%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/php%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/oracle%20-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/wordpress%20-%2321759B.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/qt%20-%2341CD52.svg?&style=for-the-badge&logo=qt&logoColor=white"/>
 </p>
 
 ## 📬 Get in Touch
