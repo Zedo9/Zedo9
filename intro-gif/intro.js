@@ -1,17 +1,18 @@
 const app1 = document.getElementById("app1");
 const app2 = document.getElementById("app2");
 const typewriter1 = new Typewriter(app1, {
-  loop: false,
+  loop: true,
   delay: 35,
-  autostart:true
+  autostart: true,
 });
 const typewriter2 = new Typewriter(app2, {
-  loop: false,
+  loop: true,
   delay: 35,
-  autostart:true
+  autostart: true,
 });
 
-typewriter1.pauseFor(1000)
+typewriter1
+  .pauseFor(1000)
   .typeString("👋 Hi There ! I'm Chedly Zouche.")
   .pauseFor(1000)
   .deleteChars(18)
@@ -27,8 +28,9 @@ typewriter1.pauseFor(1000)
   .deleteChars(48)
   .start();
 
-typewriter2.pauseFor(1000)
-  .typeString('Welcome to my Github Profile')
+typewriter2
+  .pauseFor(1000)
+  .typeString("Welcome to my Github Profile")
   .pauseFor(500)
   .deleteChars(28)
   .pauseFor(1000)
