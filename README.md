@@ -1,28 +1,37 @@
-<img src="intro-gif/intro.gif" alt="Hi there, I'm Chedly Zouche">
+<!--<img src="intro-gif/intro.gif" alt="Hi there, I'm Chedly Zouche">-->
+
+# Hi there, I'm Chedly <img width="30px" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif">
 
 <p align=center>
+    <a href="https://github.com/zedo9?tab=repositories">
+        <img src="https://badges.pufler.dev/repos/zedo9?style=flat-square&color=black&logo=github">
+    </a>
     <img src="https://badges.pufler.dev/visits/zedo9/zedo9">
+    <a href="https://github.com/zedo9">
+        <img src="https://badges.pufler.dev/years/zedo9?style=flat-square&color=black&logo=github">
+    </a>
 </p>
 
-<a href="https://github.com/zedo9?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/zedo9?style=flat-square&color=black&logo=github">
-  </a>
-<a href="https://github.com/zedo9">
-    <img src="https://badges.pufler.dev/years/zedo9?style=flat-square&color=black&logo=github">
-</a>
+## Welcome to my corner on GitHub Land 🏝️
 
-## 🎓 Currently studying and learning about...
+🎓 I'm a final year Computer Engineering student crafting an Intelligent Systems Engineering Degree from the National Engineering School of Carthage in Tunisia.
 
-- System Administration
-- Java J2EE / Spring Framework
-- Design patterns and clean Architechture
-- Embedded systems - STM32 Microcontrollers
-- Networks
-- Data Analysis
-- Project Management
-- Intelligent search Algorithms
+📌 I'm a passionate learner who's always willing to learn and work across technologies and domains. I also enjoy meeting new people and hearing about their perspectives about how different things work.
 
-When I'm not studying or writing code, you can find me playing [Dota2 <img src="https://emoji.gg/assets/emoji/2036_dota2.png" height="18em" align="center"/>](https://www.dotabuff.com/players/165532487) or [Chess ♟](https://www.chess.com/member/chedlyzouche), listenning to [music](https://open.spotify.com/user/zedo98) 🎵 or sometimes reading 📚.
+📌 Feel free to reach out for any questions or offers via E-mail. I'm always available to collaboration.
+
+## 📗 I'm currently studying and learning about...
+
+-   Service Oriented Architecture & Micro-services
+-   Advanced AI & Data Mining
+-   C# & .Net Core Fundamentals
+-   Big Data, Data Warehouse and Business Intelligence
+-   Cybersecurity
+-   Embedded & RealTime Operating Systems
+-   Parallel Programming & Architecture
+-   Formal Software Specification & Verification Methods and Tools
+
+When I'm not studying or writing code, you can find me playing [Dota2 <img src="https://emoji.gg/assets/emoji/2036_dota2.png" height="18em" align="center"/>](https://www.dotabuff.com/players/165532487) or [Chess ♟](https://www.chess.com/member/chedlyzouche), listening to [music](https://open.spotify.com/user/zedo98) 🎵, [ricing](https://github.com/Zedo9/dotfiles) my desktop 🐧 or sometimes reading 📚.
 
 ## ❤ Technologies I love playing with
 
@@ -31,19 +40,22 @@ When I'm not studying or writing code, you can find me playing [Dota2 <img src="
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux%20-%23333333.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/bash%20-%234EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/reactjs%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/vuejs%20-%233178C6.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript%20-%234FC08D.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/electron%20-%2347848F.svg?&style=for-the-badge&logo=Electron&logoColor=white"/>
 <img src="https://img.shields.io/badge/tailwind%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-## 💻 Technologies I have used
+## 💻 Technologies I have used at some point
 
 <p align="left">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/reactjs%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql%20-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/mongodb%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/postgresql%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -53,11 +65,12 @@ When I'm not studying or writing code, you can find me playing [Dota2 <img src="
 <img src="https://img.shields.io/badge/qt%20-%2341CD52.svg?&style=for-the-badge&logo=qt&logoColor=white"/>
 </p>
 
-## 📬 Get in Touch
+## 📬 Come Say Hi !
 
-- GitHub: [Zedo9](https://github.com/zedo9)
-- LinkedIn: [Chedly Zouche](https://linkedin.com/in/chedlyzouche/)
-- E-mail: chedly.zouche@pm.me
+-   WWW : [chedlyzouche.me](https://chedlyzouche.me)
+-   GitHub: [Zedo9](https://github.com/zedo9)
+-   LinkedIn: [Chedly Zouche](https://linkedin.com/in/chedlyzouche/)
+-   E-mail: chedly.zouche@pm.me
 
 ## 🎧 Last played song
 
