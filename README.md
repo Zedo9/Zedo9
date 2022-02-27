@@ -14,22 +14,18 @@
 
 ## Welcome to my corner on GitHub Land 🏝️
 
-🎓 I'm a final year Computer Engineering student crafting an Intelligent Systems Engineering Degree from the National Engineering School of Carthage in Tunisia.
+🎓 I'm a final year Computer Engineering student crafting an Intelligent Systems Engineering Degree from the National Engineering School of Carthage in Tunisia. I'm currently working with [Expensya](https://www.youtube.com/watch?v=Li9PVsGp1wo) as a Software Engineering Intern as part of my End of Studies Internship.
 
 📌 I'm a passionate learner who's always willing to learn and work across technologies and domains. I also enjoy meeting new people and hearing about their perspectives about how different things work.
 
 📌 Feel free to reach out for any questions or offers via E-mail. I'm always available to collaboration.
 
-## 📗 I'm currently studying and learning about...
+## 📗 Currently studying and learning about...
 
--   Service Oriented Architecture & Micro-services
--   Advanced AI & Data Mining
--   C# & .Net Core Fundamentals
--   Big Data, Data Warehouse and Business Intelligence
--   Cybersecurity
--   Embedded & RealTime Operating Systems
--   Parallel Programming & Architecture
--   Formal Software Specification & Verification Methods and Tools
+- Service Oriented Architecture & Micro-services
+- C# & .Net
+- Blazor Server and WebAssembly
+- Big Data Frameworks and Business Intelligence
 
 When I'm not studying or writing code, you can find me playing [Dota2 <img src="https://emoji.gg/assets/emoji/2036_dota2.png" height="18em" align="center"/>](https://www.dotabuff.com/players/165532487) or [Chess ♟](https://www.chess.com/member/chedlyzouche), listening to [music](https://open.spotify.com/user/zedo98) 🎵, [ricing](https://github.com/Zedo9/dotfiles) my desktop 🐧 or sometimes reading 📚.
 
@@ -67,10 +63,10 @@ When I'm not studying or writing code, you can find me playing [Dota2 <img src="
 
 ## 📬 Come Say Hi !
 
--   WWW : [chedlyzouche.me](https://chedlyzouche.me)
--   GitHub: [Zedo9](https://github.com/zedo9)
--   LinkedIn: [Chedly Zouche](https://linkedin.com/in/chedlyzouche/)
--   E-mail: chedly.zouche@pm.me
+- WWW : [chedlyzouche.me](https://chedlyzouche.me)
+- GitHub: [Zedo9](https://github.com/zedo9)
+- LinkedIn: [Chedly Zouche](https://linkedin.com/in/chedlyzouche/)
+- E-mail: chedly.zouche@pm.me
 
 ## 🎧 Last played song
 
