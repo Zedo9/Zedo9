@@ -14,7 +14,7 @@
 
 ## Welcome to my corner on GitHub Land 🏝️
 
-🎓 I'm a final year Computer Engineering student crafting an Intelligent Systems Engineering Degree from the National Engineering School of Carthage in Tunisia. I'm currently working with [Expensya](https://www.youtube.com/watch?v=Li9PVsGp1wo) as a Software Engineering Intern as part of my End of Studies Internship.
+🎓 I'm a final year Computer Engineering student crafting an Intelligent Systems Engineering Degree from the National Engineering School of Carthage in Tunisia. I'm currently working with [Expensya](https://www.expensya.com) as a Software Engineering Intern as part of my End of Studies Project.
 
 📌 I'm a passionate learner who's always willing to learn and work across technologies and domains. I also enjoy meeting new people and hearing about their perspectives about how different things work.
 
