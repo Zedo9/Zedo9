@@ -1,6 +1,6 @@
 <!--<img src="intro-gif/intro.gif" alt="Hi there, I'm Chedly Zouche">-->
 
-# Hi there, I'm Chedly <img width="20px" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif">
+# Hi there, I'm Chedly 👋
 
 <!-- <p align=center>
     <a href="https://github.com/zedo9?tab=repositories">
