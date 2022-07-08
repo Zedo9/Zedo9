@@ -1,8 +1,8 @@
 <!--<img src="intro-gif/intro.gif" alt="Hi there, I'm Chedly Zouche">-->
 
-# Hi there, I'm Chedly <img width="30px" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif">
+# Hi there, I'm Chedly <img width="20px" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif">
 
-<p align=center>
+<!-- <p align=center>
     <a href="https://github.com/zedo9?tab=repositories">
         <img src="https://badges.pufler.dev/repos/zedo9?style=flat-square&color=black&logo=github">
     </a>
@@ -10,15 +10,15 @@
     <a href="https://github.com/zedo9">
         <img src="https://badges.pufler.dev/years/zedo9?style=flat-square&color=black&logo=github">
     </a>
-</p>
+</p> -->
 
 ## Welcome to my corner on GitHub Land 🏝️
 
-🎓 I'm a final year Computer Engineering student crafting an Intelligent Systems Engineering Degree from the National Engineering School of Carthage in Tunisia. I'm currently working with [Expensya](https://www.expensya.com) as a Software Engineering Intern as part of my End of Studies Project.
+🎓 I'm a freshly graduated Computer Engineering student from the National Engineering School of Carthage, Tunisia, specializing in Intelligent Systems Engineering. Currently, I'm working with [Expensya](https://www.expensya.com) as a Software Engineering Intern.
 
 📌 I'm a passionate learner who's always willing to learn and work across technologies and domains. I also enjoy meeting new people and hearing about their perspectives about how different things work.
 
-📌 Feel free to reach out for any questions or offers via E-mail. I'm always available to collaboration.
+📌 Feel free to reach out for any questions or offers via E-mail. I'm always available for collaboration.
 
 ## 📗 Currently studying and learning about...
 
@@ -29,7 +29,9 @@
 
 When I'm not studying or writing code, you can find me playing [Dota2 <img src="https://emoji.gg/assets/emoji/2036_dota2.png" height="18em" align="center"/>](https://www.dotabuff.com/players/165532487) or [Chess ♟](https://www.chess.com/member/chedlyzouche), listening to [music](https://open.spotify.com/user/zedo98) 🎵, [ricing](https://github.com/Zedo9/dotfiles) my desktop 🐧 or sometimes reading 📚.
 
-## ❤ Technologies I love playing with
+## ❤ Technologies I love tinkering with
+
+<!-- Use the logos provided here https://simpleicons.org/ -->
 
 <p align="left">
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -41,6 +43,7 @@ When I'm not studying or writing code, you can find me playing [Dota2 <img src="
 <img src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/electron%20-%2347848F.svg?&style=for-the-badge&logo=Electron&logoColor=white"/>
 <img src="https://img.shields.io/badge/tailwind%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/.Net%20-%23512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=black"/>
 </p>
 
 ## 💻 Technologies I have used at some point
