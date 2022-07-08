@@ -66,7 +66,7 @@ When I'm not studying or writing code, you can find me playing [Dota2 <img src="
 
 ## 📬 Come Say Hi !
 
-- WWW : [chedlyzouche.me](https://chedlyzouche.me)
+- WWW : [chedlyzouche.me](https://zedo9.github.io)
 - GitHub: [Zedo9](https://github.com/zedo9)
 - LinkedIn: [Chedly Zouche](https://linkedin.com/in/chedlyzouche/)
 - E-mail: chedly.zouche@pm.me
