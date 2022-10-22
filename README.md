@@ -1,31 +1,19 @@
-<!--<img src="intro-gif/intro.gif" alt="Hi there, I'm Chedly Zouche">-->
-
 # Hi there, I'm Chedly 👋
-
-<!-- <p align=center>
-    <a href="https://github.com/zedo9?tab=repositories">
-        <img src="https://badges.pufler.dev/repos/zedo9?style=flat-square&color=black&logo=github">
-    </a>
-    <img src="https://badges.pufler.dev/visits/zedo9/zedo9">
-    <a href="https://github.com/zedo9">
-        <img src="https://badges.pufler.dev/years/zedo9?style=flat-square&color=black&logo=github">
-    </a>
-</p> -->
 
 ## Welcome to my corner on GitHub Land 🏝️
 
-🎓 I'm a freshly graduated Computer Engineering student from the National Engineering School of Carthage, Tunisia, specializing in Intelligent Systems Engineering. Currently, I'm working with [Expensya](https://www.expensya.com) as a Software Engineering Intern.
+🎓 I'm a Software Engineer based in 🇹🇳, with a Degree in Intelligent Systems Engineering from the National Engineering School of Carthage. Currently, I'm working with [Ankaboot](https://github.com/ankaboot-source).
 
-📌 I'm a passionate learner who's always willing to learn and work across technologies and domains. I also enjoy meeting new people and hearing about their perspectives about how different things work.
+📌 I'm a passionate learner who's always willing to learn and work across technologies and domains. I also enjoy meeting new people and hearing their perspectives on how different things work.
 
-📌 Feel free to reach out for any questions or offers via E-mail. I'm always available for collaboration.
+📌 Feel free to reach out for any questions or offers via E-mail. I'm always open for collaboration.
 
 ## 📗 Currently studying and learning about...
 
 - Service Oriented Architecture & Micro-services
-- C# & .Net
-- Blazor Server and WebAssembly
-- Big Data Frameworks and Business Intelligence
+- C# .NET
+- Domain Driven Design
+- Infrastructure as Code
 
 When I'm not studying or writing code, you can find me playing [Dota2 <img src="https://emoji.gg/assets/emoji/2036_dota2.png" height="18em" align="center"/>](https://www.dotabuff.com/players/165532487) or [Chess ♟](https://www.chess.com/member/chedlyzouche), listening to [music](https://open.spotify.com/user/zedo98) 🎵, [ricing](https://github.com/Zedo9/dotfiles) my desktop 🐧 or sometimes reading 📚.
 
@@ -71,12 +59,18 @@ When I'm not studying or writing code, you can find me playing [Dota2 <img src="
 - LinkedIn: [Chedly Zouche](https://linkedin.com/in/chedlyzouche/)
 - E-mail: chedly.zouche@pm.me
 
+_**Looking for my Resume? E-mail me!**_
+
 ## 🎧 Last played song
 
-[<img src="https://spotify-now-playing-psi-blond.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/zedo98)
+[<img src="https://spotify-now-playing-psi-blond.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="500" />](https://open.spotify.com/user/zedo98)
 
-## 💬 Looking for my Resume? E-mail me!
+## 📊 GitHub Stats
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zedo9&layout=compact">
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=zedo9&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true&hide_border=true)](https://github.com/zedo9)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zedo9&theme=gruvbox&hide_border=true)](https://github.com/zedo9)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zedo9&langs_count=10&theme=gruvbox&&layout=compact&hide_border=true&card_width=445)](https://github.com/zedo9)
 
 _Feel free to fork this repo and create your own introduction. Don't forget to star it though! 😉_
