@@ -1,8 +1,10 @@
 # Hi there, I'm Chedly 👋
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zedo9&label=🔭Stargazers&color=0e75b6&style=for-the-badge" alt="Zedo9 Profile Views" /></p>
+
 ## Welcome to my corner on GitHub Land 🏝️
 
-🎓 I'm a Software Engineer based in 🇹🇳, with a Degree in Intelligent Systems Engineering from the National Engineering School of Carthage. Currently, I'm working with [Ankaboot](https://github.com/ankaboot-source).
+⚡ I'm a Software Engineer based in 🇹🇳, with a Degree in Intelligent Systems Engineering from the National Engineering School of Carthage. Currently, I'm working with [Ankaboot](https://github.com/ankaboot-source).
 
 📌 I'm a passionate learner who's always willing to learn and work across technologies and domains. I also enjoy meeting new people and hearing their perspectives on how different things work.
 
@@ -21,8 +23,9 @@ When I'm not studying or writing code, you can find me playing [Dota2 <img src="
 
 <!-- Use the logos provided here https://simpleicons.org/ -->
 
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img src="https://img.shields.io/badge/c%23-blue.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux%20-%23333333.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/bash%20-%234EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
@@ -31,12 +34,11 @@ When I'm not studying or writing code, you can find me playing [Dota2 <img src="
 <img src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/electron%20-%2347848F.svg?&style=for-the-badge&logo=Electron&logoColor=white"/>
 <img src="https://img.shields.io/badge/tailwind%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/.Net%20-%23512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=black"/>
 </p>
 
 ## 💻 Technologies I have used at some point
 
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/reactjs%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
@@ -52,7 +54,7 @@ When I'm not studying or writing code, you can find me playing [Dota2 <img src="
 <img src="https://img.shields.io/badge/qt%20-%2341CD52.svg?&style=for-the-badge&logo=qt&logoColor=white"/>
 </p>
 
-## 📬 Come Say Hi !
+## 💬 Come Say Hi !
 
 - WWW : [chedlyzouche.me](https://zedo9.github.io)
 - GitHub: [Zedo9](https://github.com/zedo9)
@@ -61,16 +63,28 @@ When I'm not studying or writing code, you can find me playing [Dota2 <img src="
 
 _**Looking for my Resume? E-mail me!**_
 
-## 🎧 Last played song
+## 🎧 Listening to...
 
-[<img src="https://spotify-now-playing-psi-blond.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="500" />](https://open.spotify.com/user/zedo98)
+<p align="center"><a href="https://open.spotify.com/user/zedo98"><img src="https://spotify-now-playing-psi-blond.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="60%" /></a></p>
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=zedo9&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true&hide_border=true)](https://github.com/zedo9)
+<p align="center" >
+	<a href="https://github.com/zedo9">
+		<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=zedo9&hide_border=true" />
+	</a>
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zedo9&theme=gruvbox&hide_border=true)](https://github.com/zedo9)
+<!-- <p align="center" >
+	<a href="https://github.com/zedo9" align="center">
+		<img width="100%" src="https://github-readme-stats.vercel.app/api?username=zedo9&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&custom_title=Zedo's%20GitHub%20Stats" />
+	</a>
+</p> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zedo9&langs_count=10&theme=gruvbox&&layout=compact&hide_border=true&card_width=445)](https://github.com/zedo9)
+<p align="center" >
+	<a href="https://github.com/zedo9" align="center">
+		<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zedo9&langs_count=10&layout=compact&hide_border=true" />
+	</a>
+</p>
 
 _Feel free to fork this repo and create your own introduction. Don't forget to star it though! 😉_
