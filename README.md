@@ -71,19 +71,19 @@ _**Looking for my Resume? E-mail me!**_
 
 <p align="center" >
 	<a href="https://github.com/zedo9">
-		<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=zedo9&hide_border=true" />
+		<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=zedo9&hide_border=true&theme=dark" />
 	</a>
 </p>
 
-<!-- <p align="center" >
+<p align="center" >
 	<a href="https://github.com/zedo9" align="center">
-		<img width="100%" src="https://github-readme-stats.vercel.app/api?username=zedo9&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&custom_title=Zedo's%20GitHub%20Stats" />
+		<img width="100%" src="https://github-readme-stats.vercel.app/api?username=zedo9&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&custom_title=Zedo's%20GitHub%20Stats&theme=dark" />
 	</a>
-</p> -->
+</p>
 
 <p align="center" >
 	<a href="https://github.com/zedo9" align="center">
-		<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zedo9&langs_count=10&layout=compact&hide_border=true" />
+		<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zedo9&langs_count=10&layout=compact&hide_border=true&theme=dark" />
 	</a>
 </p>
 
