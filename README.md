@@ -65,25 +65,25 @@ _**Looking for my Resume? E-mail me!**_
 
 ## 🎧 Listening to...
 
-<p align="center"><a href="https://open.spotify.com/user/zedo98"><img src="https://novatorem-7mwjsonyy-chedly-zouche.vercel.app/api/spotify" alt="Spotify Now Playing" width="60%" /></a></p>
+<p align="center"><a href="https://open.spotify.com/user/zedo98"><img src="https://novatorem-7mwjsonyy-chedly-zouche.vercel.app/api/spotify" alt="Spotify Now Playing"  /></a></p>
 
 ## 📊 GitHub Stats
 
 <p align="center" >
 	<a href="https://github.com/zedo9">
-		<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=zedo9&hide_border=true&theme=dark" />
+		<img src="https://github-readme-streak-stats.herokuapp.com?user=zedo9&hide_border=true&theme=dark" />
 	</a>
 </p>
 
 <p align="center" >
 	<a href="https://github.com/zedo9" align="center">
-		<img width="100%" src="https://readme-stats-3fdt85oyf-chedly-zouche.vercel.app/api?username=zedo9&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&custom_title=Zedo's%20GitHub%20Stats&theme=dark" />
+		<img src="https://github-readme-stats.vercel.app/api?username=zedo9&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&custom_title=Zedo's%20GitHub%20Stats&theme=dark" />
 	</a>
 </p>
 
 <p align="center" >
 	<a href="https://github.com/zedo9" align="center">
-		<img width="60%" src="https://readme-stats-3fdt85oyf-chedly-zouche.vercel.app/api/top-langs/?username=Zedo9&langs_count=10&layout=compact&hide_border=true&theme=dark" />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zedo9&langs_count=10&layout=compact&hide_border=true&theme=dark" />
 	</a>
 </p>
 
