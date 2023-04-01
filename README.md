@@ -51,7 +51,7 @@ _**Looking for my Resume? E-mail me!**_ -->
 
 <p align="center" >
     <a href="#">
-	<img src="https://github-readme-stats.vercel.app/api?username=zedo9&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=issues&line_height=24&custom_title=Zedo's%20GitHub%20Stats&theme=dark" />
+	<img src="https://github-readme-stats.vercel.app/api?username=zedo9&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&hide=issues&layout=compact&line_height=24&custom_title=Zedo's%20GitHub%20Stats&theme=dark" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zedo9&layout=compact&hide_border=true&theme=dark&langs_count=6" />
     </a>
 </p>
