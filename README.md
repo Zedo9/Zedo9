@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Chedly 👋</h1>
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=zedo9&label=🔭Stargazers&color=0e75b6&style=for-the-badge" alt="Zedo9 Profile Views" /></p> -->
+
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=zedo9&label=Profile_views&color=0e75b6&style=plastic" alt="Zedo9 Profile Views" /></p> -->
 
 <p align="center">Welcome to my corner on GitHub Land 🏝️</p>
 
@@ -16,8 +17,6 @@
 - Domain Driven Design
 - Infrastructure as Code
 
-<!-- When I'm not studying or writing code, you can find me playing [Dota2 <img src="https://emoji.gg/assets/emoji/2036_dota2.png" height="18em" align="center"/>](https://www.dotabuff.com/players/165532487) or [Chess ♟](https://www.chess.com/member/chedlyzouche), listening to [music](https://open.spotify.com/user/zedo98) 🎵, [ricing](https://github.com/Zedo9/dotfiles) my desktop 🐧 or sometimes reading 📚. -->
-
 ## ❤ I love tinkering with
 
 <!-- Use the logos provided here https://simpleicons.org/ -->
@@ -31,15 +30,6 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,angular,react,cpp,java,spring,mysql,mongodb,php,electron,wordpress,qt" alt="python,angular,react,cpp,java,spring,mysql,mongodb,php,electron,wordpress,qt" />
 </p> -->
-
-<!-- ## 💬 Come Say Hi !
-
-- WWW : [chedlyzouche.me](https://zedo9.github.io)
-- GitHub: [Zedo9](https://github.com/zedo9)
-- LinkedIn: [Chedly Zouche](https://linkedin.com/in/chedlyzouche/)
-- E-mail: chedly.zouche@pm.me
-
-_**Looking for my Resume? E-mail me!**_ -->
 
 ## 📊 Stats
 
@@ -63,11 +53,5 @@ _**Looking for my Resume? E-mail me!**_ -->
         <img src="https://novatorem-7mwjsonyy-chedly-zouche.vercel.app/api/spotify" alt="Spotify Now Playing"  />
     </a>
 </p>
-
-<!-- <p align="center" >
-	<a href="https://github.com/zedo9" align="center">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zedo9&langs_count=10&layout=compact&hide_border=true&theme=dark" />
-	</a>
-</p> -->
 
 _Feel free to fork this repo and create your own introduction. Don't forget to star it though! 😉_
