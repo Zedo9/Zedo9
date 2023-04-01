@@ -23,7 +23,7 @@
 <!-- Use the logos provided here https://simpleicons.org/ -->
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,git,linux,bash,vue,typescript,docker,tauri,tailwind,postgres" alt="cs,git,linux,bash,vue,typescript,docker,tauri,tailwind" />
+<img src="https://skillicons.dev/icons?i=cs,linux,bash,vue,typescript,nodejs,docker,tauri,tailwind,postgres" alt="cs,linux,bash,vue,typescript,nodejs,docker,tauri,tailwind,postgres" />
 </p>
 
 ## 💻 I have used at some point
