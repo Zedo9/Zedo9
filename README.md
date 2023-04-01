@@ -26,11 +26,11 @@
 <img src="https://skillicons.dev/icons?i=cs,linux,bash,vue,typescript,nodejs,docker,tauri,tailwind,postgres" alt="cs,linux,bash,vue,typescript,nodejs,docker,tauri,tailwind,postgres" />
 </p>
 
-## 💻 I have used at some point
+<!-- ## 💻 I have used at some point
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,angular,react,cpp,java,spring,mysql,mongodb,php,electron,wordpress,qt" alt="python,angular,react,cpp,java,spring,mysql,mongodb,php,electron,wordpress,qt" />
-</p>
+</p> -->
 
 <!-- ## 💬 Come Say Hi !
 
@@ -41,7 +41,7 @@
 
 _**Looking for my Resume? E-mail me!**_ -->
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center" >
 	<a href="https://github.com/zedo9">
