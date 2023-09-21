@@ -50,7 +50,7 @@
 
 <p align="center">
     <a href="https://open.spotify.com/user/zedo98">
-        <img src="https://novatorem-7mwjsonyy-chedly-zouche.vercel.app/api/spotify" alt="Spotify Now Playing"  />
+        <img src="https://novatorem-chedly-zouche.vercel.app/api/spotify" alt="Spotify Now Playing"  />
     </a>
 </p>
 
