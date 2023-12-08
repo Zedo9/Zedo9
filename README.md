@@ -8,7 +8,7 @@
 
 🧰 Tech stack? I work with whatever gets the job done
 
-📫 Feel free to reach out via [E-mail](mailto:chedly.zouche@pm.me) or [LinkedIn](https://linkedin.com/chedlyzouche) for any questions or offers
+📫 Feel free to reach out via [E-mail](mailto:chedly.zouche@pm.me) or [LinkedIn](https://linkedin.com/in/chedlyzouche) for any questions or offers
 
 <details>
     <summary><b>GitHub metrics 👇🏻</b></summary>
